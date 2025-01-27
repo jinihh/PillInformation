@@ -1,0 +1,8 @@
+streamlit
+langchain
+streamlit_chat
+pdfminer.six
+chromadb
+langchain-community
+pypdf
+fastembed
